@@ -1,7 +1,8 @@
 # Assignment 5 — Study Desk
 
-Daniyal Akylbek | SE-2530
+Daniyal Akylbek | SE-2530 
 
+https://ddsu5.github.io/web-asn-05/
 A four-page JavaScript practice project covering Tasks 0–8: variables, DOM manipulation, events, a calculator and an interactive To-Do list. Built with HTML, CSS and plain JavaScript. No installation, framework, CDN or database is needed.
 
 ## Run
